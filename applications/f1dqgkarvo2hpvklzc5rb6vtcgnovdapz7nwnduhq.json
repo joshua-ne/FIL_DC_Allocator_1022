@@ -12,7 +12,6 @@
     "Role": "Data Preparer"
   },
   "Project": {
-    "Project Id": "DataVault Solutions-03",
     "Brief history of your project and organization": "DataVault Solutions is a leading company specializing in data storage and management. We provide reliable, secure, and efficient data storage solutions to help our clients manage and protect their critical business data.\r\n\r\nAs an innovative technology company, DataVault Solutions is dedicated to providing customized data storage solutions for businesses across various industries. Our team consists of experienced data management and technical experts with extensive knowledge and skills to address data requirements of different scales and complexities.\r\n\r\nOur core products include high-performance storage systems, cloud storage solutions, backup and recovery services, and data security solutions. Our solutions are designed to deliver reliability, scalability, and flexibility to meet the ever-growing data storage needs of our clients.",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "Common Crawl maintains a free, open repository of web crawl data that can be used by anyone.\r\nPrimary training corpus in every LLM.82% of raw tokens used to train GPT-3.Free and open corpus since 2007.Cited in over 8000 research papers.3–5 billion new pages added each month.",
@@ -36,15 +35,25 @@
     "Weekly Allocation": "300TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2024-05-14 10:02:01.414717871 UTC",
+    "Validated By": "joshua-ne",
     "Active": true,
-    "Updated At": "2024-05-07 12:23:48.460154366 UTC",
-    "Active Request ID": "",
+    "Updated At": "2024-05-14 10:02:01.414723286 UTC",
+    "Active Request ID": "ba7d8a2b-53c1-4c21-9c88-607d75311571",
     "On Chain Address": "f1dqgkarvo2hpvklzc5rb6vtcgnovdapz7nwnduhq",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "ba7d8a2b-53c1-4c21-9c88-607d75311571",
+      "Request Type": "First",
+      "Created At": "2024-05-14 10:02:01.414725143 UTC",
+      "Updated At": "2024-05-14 10:02:01.414726111 UTC",
+      "Active": true,
+      "Allocation Amount": "100TiB",
+      "Signers": []
+    }
+  ]
 }
