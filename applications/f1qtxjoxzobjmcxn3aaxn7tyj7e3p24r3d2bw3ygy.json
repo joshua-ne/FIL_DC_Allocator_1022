@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1qtxjoxzobjmcxn3aaxn7tyj7e3p24r3d2bw3ygy",
+  "Issue Number": "29",
+  "Client": {
+    "Name": "U.S. General Services Administration",
+    "Region": "United States",
+    "Industry": "Government",
+    "Website": "https://www.gsa.gov/",
+    "Social Media": "X: https://x.com/USGSA",
+    "Social Media Type": "Twitter",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Zen OpenData is dedicated to building an open data ecosystem, focusing on the collection, sharing, and management of data. Our organization aims to foster collaboration, transparency, and innovation by providing access to high-quality datasets. Through our initiatives, Zen OpenData empowers individuals, researchers, and organizations to leverage data for informed decision-making and problem-solving, driving progress across various sectors.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "U.S. Government's Open Data is built by the United States Government and is designed to unleash the power of government open data to inform decisions by the public and policymakers, drive innovation and economic activity, achieve agency missions, and strengthen the foundation of an open and transparent government.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.hud.gov/offices/cpd/systems/census/sf1/Tables.zip",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server, IPFS, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03068013, Hongkong\r\nf03035686, Guangdong\r\nf01926635, Sichuang\r\nf01999119, Sichuang\r\nf03136267, Hongkong\r\nf01422327, Japan\r\nf02252023, Japan\r\nf02252024, Japan\r\nf01111110, Vietnam\r\nf01909705, Vietnam",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "4.5 PiB",
+    "Single Size Dataset": "900 TiB",
+    "Replicas": 5,
+    "Weekly Allocation": "600 TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-08-25 04:21:18.665095435 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1qtxjoxzobjmcxn3aaxn7tyj7e3p24r3d2bw3ygy",
+    "Multisig Address": "true",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
