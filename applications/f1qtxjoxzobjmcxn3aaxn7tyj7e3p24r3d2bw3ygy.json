@@ -16,7 +16,7 @@
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "U.S. Government's Open Data is built by the United States Government and is designed to unleash the power of government open data to inform decisions by the public and policymakers, drive innovation and economic activity, achieve agency missions, and strengthen the foundation of an open and transparent government.",
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
-    "How do you plan to prepare the dataset": "No response",
+    "How do you plan to prepare the dataset": "We have customized tools to retrieve and convert data to car files.",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.hud.gov/offices/cpd/systems/census/sf1/Tables.zip",
     "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
     "What is the expected retrieval frequency for this data": "Yearly",
