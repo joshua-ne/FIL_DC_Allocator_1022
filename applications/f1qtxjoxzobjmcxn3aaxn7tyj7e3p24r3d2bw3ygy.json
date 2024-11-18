@@ -38,9 +38,9 @@
     "State": "Granted",
     "Validated At": "2024-10-31 03:22:11.348857029 UTC",
     "Validated By": "joshua-ne",
-    "Active": true,
-    "Updated At": "2024-10-31 03:24:44.366633605 UTC",
-    "Active Request ID": "0fa7442b-4e59-489a-a7a5-6ac0f9cdc4a8",
+    "Active": false,
+    "Updated At": "2024-11-18 17:00:16.234033524 UTC",
+    "Active Request ID": "",
     "On Chain Address": "f1qtxjoxzobjmcxn3aaxn7tyj7e3p24r3d2bw3ygy",
     "Multisig Address": "true",
     "edited": false
