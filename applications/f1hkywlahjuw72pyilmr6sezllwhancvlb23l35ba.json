@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-01-13 03:26:10.320408473 UTC",
+    "Validated At": "2025-01-14 06:27:07.968427064 UTC",
     "Validated By": "joshua-ne",
     "Active": true,
-    "Updated At": "2025-01-13 03:26:10.320405129 UTC",
-    "Active Request ID": "dbe21477-5252-4a5a-ae79-8224a2cd42a4",
+    "Updated At": "2025-01-14 06:27:07.968421509 UTC",
+    "Active Request ID": "a802bbf1-01bd-456d-a39f-5d2c8bcd92b5",
     "On Chain Address": "f1hkywlahjuw72pyilmr6sezllwhancvlb23l35ba",
     "Multisig Address": "true",
     "edited": false
@@ -59,6 +59,22 @@
           "Signing Address": "f1sfffys4o2w64rdpd3alpmvpvj4ik6x2iyjsjmry",
           "Created At": "2025-01-13 03:26:07.410000000 UTC",
           "Message CID": "bafy2bzaceazcixsdnadvi5q7y7otpva4fsmar4476av67swtzzdo6kiu5jgau"
+        }
+      ]
+    },
+    {
+      "ID": "a802bbf1-01bd-456d-a39f-5d2c8bcd92b5",
+      "Request Type": "Refill",
+      "Created At": "2025-01-14 06:25:39.109132847 UTC",
+      "Updated At": "2025-01-14 06:25:39.109133467 UTC",
+      "Active": false,
+      "Allocation Amount": "100TiB",
+      "Signers": [
+        {
+          "Github Username": "joshua-ne",
+          "Signing Address": "f1sfffys4o2w64rdpd3alpmvpvj4ik6x2iyjsjmry",
+          "Created At": "2025-01-14 06:27:03.489000000 UTC",
+          "Message CID": "bafy2bzacede4bgynucb5n7upxyiaqtiwga7jfilgjdpkz3vbbkgjercbm5hcu"
         }
       ]
     }
