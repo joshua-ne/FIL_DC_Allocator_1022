@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f17qhnsk3liut7cyc62bmykwxngagnygbl6qwigma",
+  "Issue Number": "120",
+  "Client": {
+    "Name": "Digital Ego",
+    "Region": "Singapore",
+    "Industry": "IT & Technology Services",
+    "Website": "http://www.digitalego.tech/",
+    "Social Media": "http://www.digitalego.tech/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Founded in early 2024, our team excels in advanced data processing, with deep roots in the game industry. We bring proven expertise in optimizing interactive experiences and user analytics, while increasingly expanding into broader AI and enterprise data domains. Our mission is to deliver scalable, high-impact data solutions that empower clients across sectors to unlock the full value of their data.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "DigitalEgo is a company specializing in AI-driven digital humans, offering solutions for live streaming, virtual try-ons, and online meetings. To support its core services, DigitalEgo generates and utilizes a large volume of multimodal data, including 3D avatars, facial motion capture, voice synthesis files, and user interaction logs. These datasets are stored on Filecoin to ensure secure, decentralized, and long-term preservation.",
+    "Where was the data currently stored in this dataset sourced from": "Azure Cloud",
+    "How do you plan to prepare the dataset": "A partner we met at a meetup provided tools that were re-engineered using components from IPFS. We've since been iteratively optimizing the tools based on real-world usage.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/1drz1eVZhyzeL3vG9UBxVV-2ahqPGEpPe",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03604724, Japan\nf03605143, USA\nf02920450, Vietnam\nf03526821, Vietnam\nf03230423, Malaysia\nf03281237, Malaysia\nf03513598, Malaysia\nf03513633, Malaysia",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "9 PiB",
+    "Single Size Dataset": "1.1 PiB",
+    "Replicas": 8,
+    "Weekly Allocation": "1 PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-07-12 04:58:11.850821138 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f17qhnsk3liut7cyc62bmykwxngagnygbl6qwigma",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
