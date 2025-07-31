@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1jxmvpeytbivxtc2d5ilfwpzum3crgha3stpr7ny",
+  "Issue Number": "127",
+  "Client": {
+    "Name": "Cityscapes Team",
+    "Region": "Germany",
+    "Industry": "IT & Technology Services",
+    "Website": "https://www.cityscapes-dataset.com/",
+    "Social Media": "https://www.cityscapes-dataset.com/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "The Kinetics datasets, developed by DeepMind, are large-scale collections of video clips designed for human action recognition research. They include various versions (e.g., Kinetics-400, Kinetics-600, and Kinetics-700) and cover hundreds of human action categories, making them invaluable for training and evaluating AI models in video analysis and behavior understanding. Secure storage is essential to maintain data integrity, enable reproducibility in research, and protect the availability of this critical resource for future advancements in machine learning and computer vision.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "The CitySpace dataset is a large-scale urban mobility and infrastructure dataset designed to support research and innovation in smart cities, transportation planning, and urban analytics. It contains high-resolution spatial and temporal data collected from various sources, including traffic sensors, public transit systems, GPS traces, and environmental monitors across multiple metropolitan areas.\nBy storing the CitySpace dataset on the Filecoin network, we aim to preserve and make openly accessible critical urban data that can empower researchers, developers, and policymakers to build more sustainable, efficient, and livable cities.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.cityscapes-dataset.com/examples/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3)",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03605143 - United States\nf03604724 - Japan\nf01111110 - Vietnam\nf01909705 - Vietnam\nf02920450 - Vietnam\nf03526821 - Vietnam\nf03513598 - Malaysia\nf03281237 - Malaysia\nf03513633 - Malaysia\nf03230423 - Malaysia",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "1.5 PiB",
+    "Single Size Dataset": "150 TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "400 TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-07-31 06:41:03.154933069 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1jxmvpeytbivxtc2d5ilfwpzum3crgha3stpr7ny",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
