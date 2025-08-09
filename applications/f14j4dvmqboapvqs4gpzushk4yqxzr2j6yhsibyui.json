@@ -16,7 +16,7 @@
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "This dataset is produced and maintained by the Linked Data Benchmark Council (LDBC). It is a synthetic graph benchmark dataset, commonly known as the Social Network Benchmark (SNB) suite. SNB simulates the structure and operations of a social network, including user profiles, friendships, posts, comments, likes, and transactional behavior. It supports two workloads: the Interactive workload (for transactional graph queries) and the Business Intelligence (BI) workload (for analytical queries).",
     "Where was the data currently stored in this dataset sourced from": "Other",
-    "How do you plan to prepare the dataset": "",
+    "How do you plan to prepare the dataset": "The data will be prepared following standardized, transparent, and reproducible procedures, using commonly accepted tooling to ensure consistency and integrity. All processing steps will align with best practices for dataset handling and documentation.",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://repository.surfsara.nl/datasets/cwi/lsqb/files/lsqb-merged/social-network-sf30-merged-fk.tar.zst",
     "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
     "What is the expected retrieval frequency for this data": "Yearly",
