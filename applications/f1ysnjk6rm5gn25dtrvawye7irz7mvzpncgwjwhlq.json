@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1ysnjk6rm5gn25dtrvawye7irz7mvzpncgwjwhlq",
+  "Issue Number": "140",
+  "Client": {
+    "Name": "National Library of Medicine (NLM)",
+    "Region": "United States",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://pubmed.ncbi.nlm.nih.gov/",
+    "Social Media": "https://pubmed.ncbi.nlm.nih.gov/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "DeMed is a dedicated team specializing in medical data research and analysis. The team focus on collecting, processing, and applying healthcare-related datasets to support medical innovation and improve patient outcomes. Its expertise bridges data science and healthcare to enable impactful insights in the medical field.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "PubMed is a free search engine maintained by the U.S. National Library of Medicine, providing access to millions of biomedical and life sciences research articles. It includes citations and abstracts from MEDLINE, life science journals, and online books. Researchers, healthcare professionals, and students use it to find reliable scientific literature across medicine, biology, and related fields.",
+    "Where was the data currently stored in this dataset sourced from": "Other",
+    "How do you plan to prepare the dataset": "The data will be prepared using some common tools and basic methods. We will clean and organize the data so it can be used properly. The process will involve standard steps without any special technical details.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/xmlmesh/desc2025.gz",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3)",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03605143:United States\nf03604724:Japan\nf02920450:Vietnam\nf03526821:Vietnam\nf03513598:Malaysia\nf03281237:Malaysia\nf03513633:Malaysia\nf03230423:Malaysia",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "2 PiB",
+    "Single Size Dataset": "250 TiB",
+    "Replicas": 8,
+    "Weekly Allocation": "500 TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-08-17 12:00:12.903984651 UTC",
+    "Validated By": "joshua-ne",
+    "Active": true,
+    "Updated At": "2025-08-17 12:00:12.903981044 UTC",
+    "Active Request ID": "70575f72-099d-415c-8fbb-3da1c1e620f6",
+    "On Chain Address": "f1ysnjk6rm5gn25dtrvawye7irz7mvzpncgwjwhlq",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "70575f72-099d-415c-8fbb-3da1c1e620f6",
+      "Request Type": "First",
+      "Created At": "2025-08-17 11:58:50.440062880 UTC",
+      "Updated At": "2025-08-17 11:58:50.440063994 UTC",
+      "Active": false,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": [
+        {
+          "Github Username": "joshua-ne",
+          "Signing Address": "f1sfffys4o2w64rdpd3alpmvpvj4ik6x2iyjsjmry",
+          "Created At": "2025-08-17 12:00:09.806000000 UTC",
+          "Message CID": "bafy2bzaced3mix3vvbhrroxjscxwdxgadlau34vwbm3o3j65v5oewo25diute"
+        }
+      ]
+    }
+  ]
+}
