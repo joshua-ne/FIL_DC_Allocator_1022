@@ -35,11 +35,11 @@
     "Weekly Allocation": "500 TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-08-17 11:58:50.440056455 UTC",
+    "State": "Granted",
+    "Validated At": "2025-08-17 12:00:12.903984651 UTC",
     "Validated By": "joshua-ne",
     "Active": true,
-    "Updated At": "2025-08-17 11:58:50.440061181 UTC",
+    "Updated At": "2025-08-17 12:00:12.903981044 UTC",
     "Active Request ID": "70575f72-099d-415c-8fbb-3da1c1e620f6",
     "On Chain Address": "f1ysnjk6rm5gn25dtrvawye7irz7mvzpncgwjwhlq",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2025-08-17 11:58:50.440062880 UTC",
       "Updated At": "2025-08-17 11:58:50.440063994 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "281474976710656 B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "joshua-ne",
+          "Signing Address": "f1sfffys4o2w64rdpd3alpmvpvj4ik6x2iyjsjmry",
+          "Created At": "2025-08-17 12:00:09.806000000 UTC",
+          "Message CID": "bafy2bzaced3mix3vvbhrroxjscxwdxgadlau34vwbm3o3j65v5oewo25diute"
+        }
+      ]
     }
   ]
 }
