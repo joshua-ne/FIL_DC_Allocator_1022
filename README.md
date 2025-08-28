@@ -32,6 +32,25 @@ By focusing on these categories, the pathway ensures that Filecoin continues to 
 
 ------
 
+## Dispute Handling Rules
+
+From time to time, questions or disagreements may arise in relation to allocation requests, review outcomes, or ongoing monitoring. To address such matters in a constructive way, the following principles are applied:
+
+1. **Transparency of Discussion**
+   - All substantive disputes are to be raised and tracked through public community channels (e.g., GitHub issues, governance forums). This ensures visibility and allows others to contribute perspectives.
+2. **Evidence-Based Review**
+   - Concerns should be supported by verifiable references such as on-chain records, dataset documentation, or previously published allocation notes. This helps focus the discussion on facts rather than assumptions.
+3. **Iterative Clarification**
+   - Where uncertainty exists, the Allocator may request additional information from the Client or Storage Providers. Disputes are often resolved by clarification rather than formal escalation.
+4. **Community Alignment**
+   - In cases where disagreement persists, the Allocator will defer to established Fil+ governance norms and community consensus. Outcomes are guided by the broader principles of fairness, accountability, and the long-term value of the Filecoin network.
+5. **Proportional Response**
+   - The pathway avoids overreaction to isolated or minor issues. Only repeated, material, or unresolved discrepancies may result in measures such as temporary suspension of allocations.
+
+This approach is designed to remain simple and practical: disputes are made visible, examined with reference to evidence, and aligned with community governance, while allowing for flexible resolution without unnecessary complexity.
+
+------
+
 ## Contribution and Collaboration
 
 We welcome constructive collaboration with clients, storage providers, and community members who share the goal of advancing Filecoin’s mission. Participation in this pathway should always aim to:
