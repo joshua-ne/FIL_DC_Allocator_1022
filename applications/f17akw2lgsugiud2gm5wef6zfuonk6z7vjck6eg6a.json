@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f17akw2lgsugiud2gm5wef6zfuonk6z7vjck6eg6a",
+  "Issue Number": "156",
+  "Client": {
+    "Name": "University of Maryland",
+    "Region": "United States",
+    "Industry": "Education & Training",
+    "Website": "https://umd.edu/",
+    "Social Media": "https://x.com/UofMaryland",
+    "Social Media Type": "Twitter",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Grey Gear is a data-focused team dedicated to organizing, preparing, and validating large-scale scientific datasets. With experience in geospatial processing and data quality assurance, the team emphasizes reliability, precision, and efficiency in enabling open research and long-term storage.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "The Global Land Cover Facility (GLCF), developed by the University of Maryland, was a public data service providing free access to satellite imagery and land cover datasets. It hosted key products such as Landsat imagery, MODIS data, and global land cover classifications, primarily in GeoTIFF and HDF formats. Designed to support research in climate change, ecosystem monitoring, and land use management, GLCF became a widely used resource in remote sensing and geospatial studies.",
+    "Where was the data currently stored in this dataset sourced from": "Azure Cloud",
+    "How do you plan to prepare the dataset": "The data will be organized into standardized directories, converted into GeoTIFF for consistency, and validated with GDAL and QGIS. Metadata is extracted and cleaned using Python scripts to ensure accurate georeferencing before packaging for storage.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://maps.helcom.fi/arcgis/rest/directories/arcgisoutput/MADS/tools_GPServer/_ags_GLCF_LANDCOVER_BS_1.zip",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3)",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03605143, United States\nf03604724, Japan\nf03073961, Vietnam\nf03230392, Vietnam",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "2.7 PiB",
+    "Single Size Dataset": "680 TiB",
+    "Replicas": 4,
+    "Weekly Allocation": "500 TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-10-03 12:41:21.455404208 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f17akw2lgsugiud2gm5wef6zfuonk6z7vjck6eg6a",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
