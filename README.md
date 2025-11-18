@@ -22,7 +22,7 @@ All contributors, applicants, and stakeholders engaging through this repository 
 
 The allocator process is not only about distributing storage capacity, but also about ensuring that all data onboarded through Fil+ strengthens the trust and value of the Filecoin ecosystem.
 
-* As a special reminder, all applications are expected to provide complete index information and ensure effective data retrievability, in line with community requirements for verifiable access.
+* _As a special reminder, all applications are expected to provide complete index information and ensure effective data retrievability, in line with community requirements for verifiable access._
 ------
 
 ## Focus on Valuable Data Onboarding
