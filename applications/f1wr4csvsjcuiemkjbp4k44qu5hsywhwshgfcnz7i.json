@@ -35,11 +35,11 @@
     "Weekly Allocation": "1 PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2026-03-05 02:38:38.495855133 UTC",
+    "State": "Granted",
+    "Validated At": "2026-03-05 02:42:03.243317425 UTC",
     "Validated By": "joshua-ne",
     "Active": true,
-    "Updated At": "2026-03-05 02:38:38.495859346 UTC",
+    "Updated At": "2026-03-05 02:42:03.243312941 UTC",
     "Active Request ID": "0aef3e4e-2bbc-43d3-a0c7-8dee145ef3f9",
     "On Chain Address": "f1wr4csvsjcuiemkjbp4k44qu5hsywhwshgfcnz7i",
     "Multisig Address": "false",
@@ -67,9 +67,16 @@
       "Request Type": "Refill",
       "Created At": "2026-03-05 02:38:38.495863169 UTC",
       "Updated At": "2026-03-05 02:38:38.495864285 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "562949953421312B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "joshua-ne",
+          "Signing Address": "f1sfffys4o2w64rdpd3alpmvpvj4ik6x2iyjsjmry",
+          "Created At": "2026-03-05 02:41:59.381000000 UTC",
+          "Message CID": "bafy2bzacecm3rrrn3kiqvhtcieyhcro5hvuh2c2tomqd6dvwfqfooukpztcmu"
+        }
+      ]
     }
   ]
 }
